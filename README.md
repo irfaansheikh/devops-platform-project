@@ -1,5 +1,5 @@
 # devops-project-5-platform
 devops-project-5-platform
 
-Full DevOps Platform
+Project 5: Full DevOps Platform
 
