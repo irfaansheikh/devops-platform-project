@@ -1,5 +1,6 @@
 
-
+![alt text](image.png)
+ 
 # 🚀 DevOps Full Platform Project
 
 A production-style DevOps project that demonstrates end-to-end system design, deployment, and monitoring using modern DevOps tools and practices.
