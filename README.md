@@ -1,14 +1,12 @@
 
-![alt text](image.png)
+![DevOps Main 1](./ss/devops-main1.png)
  
 # 🚀 DevOps Full Platform Project
 
 A production-style DevOps project that demonstrates end-to-end system design, deployment, and monitoring using modern DevOps tools and practices.
 
 
-
-
-
+![DevOps Main 2](./ss/devops-main2.png)
 
 # 🧩 Architecture Overview
 
@@ -93,3 +91,7 @@ This project demonstrates the ability to:
             Automate deployments
             Manage containerized workloads
             Implement observability
+
+# Screenshots
+
+
