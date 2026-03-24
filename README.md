@@ -1,10 +1,8 @@
-
 ![DevOps Main 1](./ss/devops-main1.png)
  
 # 🚀 DevOps Full Platform Project
 
 A production-style DevOps project that demonstrates end-to-end system design, deployment, and monitoring using modern DevOps tools and practices.
-
 
 ![DevOps Main 2](./ss/devops-main2.png)
 
@@ -94,4 +92,68 @@ This project demonstrates the ability to:
 
 # Screenshots
 
+Terraform init
 
+![Terraform Init](./ss/terraform-init.png)
+
+Terraform Plan
+
+![Terraform Plan](./ss/terraform-plan.png)
+
+Terraform Apply
+
+![Terraform Apply](./ss/terraform-apply.png)
+
+Terraform Destroy
+
+![Terraform Destroy](./ss/terraform-destroy.png)
+
+Docker
+
+docker build -t your-dockerhub-username/app:latest .
+
+docker push your-dockerhub-username/app:latest
+
+Deploy to Kubernetes
+
+![Kubernetes Apply](./ss/kubectl-apply.png) 
+
+Kubernetes Deployment manages pods
+
+![Kubernetes Apply](./ss/kubectl-pods.png) 
+
+Kubernetes Deployment Manages Nodes
+
+![Kubernetes Apply](./ss/kubectl-nodes.png) 
+ 
+Kubernetes Service exposes application externally
+
+![Kubernetes Apply](./ss/kubectl-service.png) 
+
+Automated build on code push
+
+![Kubernetes Apply](./ss/kubectl-apply.png) 
+
+Prometheus scrapes system and application metrics
+
+![prometheus Data Source](./ss/prometheus-data-source.png) 
+
+![prometheus Data Source](./ss/prometheus-data-source2.png) 
+
+Prometheus Target Status
+
+![prometheus Data Source](./ss/prometheus-staus.png) 
+
+Grafana Import Dashboard
+
+![Kubernetes Apply](./ss/grafana-import-dashboard1.png) 
+
+![Kubernetes Apply](./ss/grafana-import-dashboard2.png) 
+
+Grafana dashboards visualize CPU, memory, and app performance
+
+![Grafana Dashboards](./ss/grafana-dashboard.png) 
+
+DevOps Project Deploy on GitHub Actions
+
+![DevOps Project Deploy](./ss/devops-project-deploy-github-actions.png)
